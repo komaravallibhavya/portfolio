@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="authour" content="komaravalli bhavya">
+    <meta name="description" content="this page contains my stuff">
+
+    <title>shelton</title>
+    <link rel="icon" href="html5.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <style>
+        html{
+            font-size: 22px;
+        }
+        body{
+            background-color:bisque;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+   <!--hi-->
+    <h1>hello world!</h1>
+    
+    <hr>
+    <p>
+            <p>its all about me <br>
+        i am an under-graduation student at <br>
+        NATIONAL INSTITUTE OF TEHNOLOGY WARANGAL<br> 
+        WARANGAL,INDIA
+    </p>
+    <hr>
+    <ul>
+        <li>
+            contact me at <a href="mailto:random@gmail.com"> my email address</a>
+        </li>
+        <li>
+            Dial <a href=""tel:+91>my mobile number</a>
+        </li>
+        <li>
+            open <a href="https://www.google.com/" target="_blank">google </a>in a new tab</a>
+        </li>
+        <img src="img/campus.jpeg" alt="web development" width="400">
+    </ul>
+
+
+&lt;&lt;&lt;&copy;<a href="about.html"> Komaravalli bhavya </a>&gt;&gt;&gt;
+<p>
+    <a href ="/">back to home </a>
+</p>
+</body>
+</html>
